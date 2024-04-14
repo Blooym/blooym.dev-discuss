@@ -1,4 +1,4 @@
 {
-  "origins": ["https://giscus.app"],
+  "origins": ["https://blooym.dev"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
